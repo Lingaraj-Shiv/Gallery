@@ -26,7 +26,6 @@ function App() {
   return (
     <section className="hero">
     <div className="cardContainer">
-      <h1>Hi</h1>
         <Card images = {images}/>
       </div>
       <div className="btnContainer">
